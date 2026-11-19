@@ -2,6 +2,8 @@
 
 A bilingual (English/Spanish) directory of 102 community resources in Forsyth County, Georgia. Built for the Congressional App Challenge.
 
+**Live demo:** https://forsyth-connect.onrender.com (free hosting, so the first load can take up to a minute while it wakes up)
+
 People looking for help with food, health care, housing, transportation, or a crisis often don't know what exists near them. Forsyth Connect puts the county's resources in one place, sorts them by distance, and tells you whether a place is likely open right now.
 
 ## Features
