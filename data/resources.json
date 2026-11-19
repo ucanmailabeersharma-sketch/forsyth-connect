@@ -1,0 +1,1388 @@
+{
+  "categories": [
+    "Food",
+    "Health",
+    "Family Services",
+    "Housing & Utilities",
+    "Youth Programs",
+    "Senior Services",
+    "Transportation",
+    "Employment & Education",
+    "Crisis & Safety"
+  ],
+  "categoryLabelsEs": {
+    "Food": "Comida",
+    "Health": "Salud",
+    "Family Services": "Servicios Familiares",
+    "Housing & Utilities": "Vivienda y Servicios Públicos",
+    "Youth Programs": "Programas Juveniles",
+    "Senior Services": "Servicios para Personas Mayores",
+    "Transportation": "Transporte",
+    "Employment & Education": "Empleo y Educación",
+    "Crisis & Safety": "Crisis y Seguridad"
+  },
+  "resources": [
+    {
+      "name": "The Place of Forsyth County",
+      "category": "Food",
+      "address": "2550 The Place Circle, Cumming, GA 30040",
+      "phone": "770-887-1098",
+      "lat": 34.2319183,
+      "lng": -84.1024231,
+      "hours": {
+        "en": "Call ahead — appointment based, walk-ins accepted",
+        "es": "Llame antes — se requiere cita, pero también se aceptan visitas sin cita"
+      },
+      "desc": {
+        "en": "Main food pantry for Forsyth County residents. Can also help with utility and emergency financial assistance.",
+        "es": "Despensa de alimentos principal para residentes del condado de Forsyth. También puede ayudar con asistencia financiera de emergencia y servicios públicos."
+      }
+    },
+    {
+      "name": "Cumming First United Methodist Church Food Pantry",
+      "category": "Food",
+      "address": "770 Canton Hwy, Cumming, GA 30040",
+      "phone": "770-887-2900",
+      "lat": 34.228683,
+      "lng": -84.1606851,
+      "hours": {
+        "en": "Wednesdays, 9–11am",
+        "es": "Miércoles, 9–11am"
+      },
+      "desc": {
+        "en": "Weekly food pantry plus emergency assistance line for urgent needs.",
+        "es": "Despensa de alimentos semanal, además de una línea de asistencia de emergencia para necesidades urgentes."
+      }
+    },
+    {
+      "name": "Hightower Food Bank",
+      "category": "Food",
+      "address": "8630 Wallace Tatum Road, Cumming, GA 30028",
+      "phone": "770-205-2464",
+      "lat": 34.2892424,
+      "lng": -84.232727,
+      "hours": {
+        "en": "2nd Saturday of the month, 8am–12pm",
+        "es": "Segundo sábado del mes, 8am–12pm"
+      },
+      "desc": {
+        "en": "Monthly food distribution. Call during the month for additional help between distribution dates.",
+        "es": "Distribución mensual de alimentos. Llame durante el mes para obtener ayuda adicional entre fechas de distribución."
+      }
+    },
+    {
+      "name": "YMCA Cumming — Food Distribution",
+      "category": "Food",
+      "address": "6050 Y St, Cumming, GA 30040",
+      "phone": null,
+      "lat": 34.182231,
+      "lng": -84.220409,
+      "hours": {
+        "en": "1st Thursday of the month, 4:30–7pm",
+        "es": "Primer jueves del mes, 4:30–7pm"
+      },
+      "desc": {
+        "en": "Monthly food distribution. Sign up online with the posted QR code before arriving.",
+        "es": "Distribución mensual de alimentos. Regístrese en línea con el código QR publicado antes de llegar."
+      }
+    },
+    {
+      "name": "Cumming Elementary Mobile Pantry",
+      "category": "Food",
+      "address": "540 Dahlonega St, Cumming, GA 30040",
+      "phone": null,
+      "lat": 34.2205705,
+      "lng": -84.1354475,
+      "hours": {
+        "en": "2nd Saturday of the month, 10–11am",
+        "es": "Segundo sábado del mes, 10–11am"
+      },
+      "desc": {
+        "en": "Mobile food pantry run through The Place of Forsyth, hosted at Cumming Elementary.",
+        "es": "Despensa móvil de alimentos administrada por The Place of Forsyth, ubicada en Cumming Elementary."
+      }
+    },
+    {
+      "name": "Chattahoochee Elementary Mobile Pantry",
+      "category": "Food",
+      "address": "2800 Holtzclaw Rd, Cumming, GA",
+      "phone": null,
+      "lat": 34.2383059,
+      "lng": -84.0864335,
+      "hours": {
+        "en": "2nd Saturday of the month, 11:30am–12:30pm",
+        "es": "Segundo sábado del mes, 11:30am–12:30pm"
+      },
+      "desc": {
+        "en": "Mobile food pantry run through The Place of Forsyth, hosted at Chattahoochee Elementary.",
+        "es": "Despensa móvil de alimentos administrada por The Place of Forsyth, ubicada en Chattahoochee Elementary."
+      }
+    },
+    {
+      "name": "Chestatee Elementary Mobile Pantry",
+      "category": "Food",
+      "address": "6945 Keith Bridge Rd, Gainesville, GA 30506",
+      "phone": null,
+      "lat": 34.297244,
+      "lng": -83.9962491,
+      "hours": {
+        "en": "3rd Saturday of the month, 10–11am",
+        "es": "Tercer sábado del mes, 10–11am"
+      },
+      "desc": {
+        "en": "Mobile food pantry run through The Place of Forsyth, hosted at Chestatee Elementary (serves Forsyth County families).",
+        "es": "Despensa móvil de alimentos administrada por The Place of Forsyth, ubicada en Chestatee Elementary (atiende a familias del condado de Forsyth)."
+      }
+    },
+    {
+      "name": "Ministries of Grace",
+      "category": "Food",
+      "address": "3540 Keith Bridge Rd, Cumming, GA 30041",
+      "phone": "404-426-4055",
+      "lat": 34.2602775,
+      "lng": -84.0685604,
+      "hours": {
+        "en": "On-campus pantry — call or email ahead",
+        "es": "Despensa en el lugar — llame o envíe un correo electrónico con anticipación"
+      },
+      "desc": {
+        "en": "Food pantry on campus. Email info@mealbygrace.org for assistance before arriving.",
+        "es": "Despensa de alimentos en el lugar. Envíe un correo a info@mealbygrace.org para recibir ayuda antes de llegar."
+      }
+    },
+    {
+      "name": "City on a Hill Church Pantry",
+      "category": "Food",
+      "address": "1645 Dahlonega Hwy, Cumming, GA 30040",
+      "phone": "678-883-3512",
+      "lat": 34.2431735,
+      "lng": -84.1184377,
+      "hours": {
+        "en": "Last Saturday of the month, 10–11:15am",
+        "es": "Último sábado del mes, 10–11:15am"
+      },
+      "desc": {
+        "en": "Monthly community food distribution. Call ahead with questions.",
+        "es": "Distribución comunitaria mensual de alimentos. Llame con anticipación si tiene preguntas."
+      }
+    },
+    {
+      "name": "Because Mom Collective",
+      "category": "Food",
+      "address": "102 Colony Park Dr, Cumming, GA 30040",
+      "phone": null,
+      "lat": 34.1935707,
+      "lng": -84.1345675,
+      "hours": {
+        "en": "Call or check local listings for current hours",
+        "es": "Llame o consulte listados locales para conocer el horario actual"
+      },
+      "desc": {
+        "en": "Community pantry and family support collective in Cumming.",
+        "es": "Despensa comunitaria y colectivo de apoyo familiar en Cumming."
+      }
+    },
+    {
+      "name": "Cumming Baptist Church Pantry",
+      "category": "Food",
+      "address": "115 Church St, Cumming, GA 30040",
+      "phone": null,
+      "lat": 34.2098513,
+      "lng": -84.1389536,
+      "hours": {
+        "en": "Call or check local listings for current hours",
+        "es": "Llame o consulte listados locales para conocer el horario actual"
+      },
+      "desc": {
+        "en": "Church-run food pantry in downtown Cumming.",
+        "es": "Despensa de alimentos administrada por la iglesia en el centro de Cumming."
+      }
+    },
+    {
+      "name": "MSG Foundation Pantry at Otwell Middle School",
+      "category": "Food",
+      "address": "605 Tribble Gap Rd, Cumming, GA 30040",
+      "phone": null,
+      "lat": 34.2186632,
+      "lng": -84.1371806,
+      "hours": {
+        "en": "Call or check local listings for current hours",
+        "es": "Llame o consulte listados locales para conocer el horario actual"
+      },
+      "desc": {
+        "en": "Food pantry hosted on the Otwell Middle School campus.",
+        "es": "Despensa de alimentos ubicada en el campus de Otwell Middle School."
+      }
+    },
+    {
+      "name": "Forsyth County Health Department",
+      "category": "Health",
+      "address": "428 Canton Hwy, Cumming, GA 30040",
+      "phone": "770-781-6900",
+      "lat": 34.215591,
+      "lng": -84.149738,
+      "hours": {
+        "en": "Mon–Fri, standard business hours",
+        "es": "Lunes a viernes, horario comercial habitual"
+      },
+      "desc": {
+        "en": "Health checks, WIC, immunizations, TB testing, and prenatal case management.",
+        "es": "Chequeos de salud, WIC, vacunas, pruebas de tuberculosis y manejo de casos prenatales."
+      }
+    },
+    {
+      "name": "AVITA Counseling",
+      "category": "Health",
+      "address": "Forsyth County",
+      "phone": "678-341-3840",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Call to schedule",
+        "es": "Llame para programar una cita"
+      },
+      "desc": {
+        "en": "Low-cost counseling options for low-income families.",
+        "es": "Opciones de consejería de bajo costo para familias de bajos ingresos."
+      }
+    },
+    {
+      "name": "Forsyth County Dept. of Family & Children Services",
+      "category": "Family Services",
+      "address": "426 Canton Hwy, Cumming, GA 30040",
+      "phone": "770-781-6700",
+      "lat": 34.2154872,
+      "lng": -84.1496438,
+      "hours": {
+        "en": "Mon–Fri, standard business hours",
+        "es": "Lunes a viernes, horario comercial habitual"
+      },
+      "desc": {
+        "en": "Medicaid, SNAP (food stamps), TANF, foster care, and adoption services.",
+        "es": "Medicaid, SNAP (cupones de alimentos), TANF, cuidado de crianza y servicios de adopción."
+      }
+    },
+    {
+      "name": "Catholic Social Services",
+      "category": "Family Services",
+      "address": "430 Prior St, Suite 500, Gainesville, GA 30501",
+      "phone": "770-534-3337",
+      "lat": 34.2992326,
+      "lng": -83.8190398,
+      "hours": {
+        "en": "Mon–Fri, standard business hours",
+        "es": "Lunes a viernes, horario comercial habitual"
+      },
+      "desc": {
+        "en": "Community outreach, help with medical needs, counseling, and social casework.",
+        "es": "Alcance comunitario, ayuda con necesidades médicas, consejería y trabajo social de casos."
+      }
+    },
+    {
+      "name": "Ninth District Opportunity — Energy Assistance",
+      "category": "Housing & Utilities",
+      "address": "133 Samaritan Dr, Cumming, GA 30040",
+      "phone": "770-889-9420",
+      "lat": 34.2083979,
+      "lng": -84.1472786,
+      "hours": {
+        "en": "Call for current program status",
+        "es": "Llame para conocer el estado actual del programa"
+      },
+      "desc": {
+        "en": "Low-income home energy assistance program (help with heating/cooling bills).",
+        "es": "Programa de asistencia energética para hogares de bajos ingresos (ayuda con facturas de calefacción/aire acondicionado)."
+      }
+    },
+    {
+      "name": "Low Income Home Water Assistance Program (LIHWAP)",
+      "category": "Housing & Utilities",
+      "address": "133 Samaritan Dr, Cumming, GA 30040",
+      "phone": "770-889-9420",
+      "lat": 34.2083979,
+      "lng": -84.1472786,
+      "hours": {
+        "en": "Call for current program status",
+        "es": "Llame para conocer el estado actual del programa"
+      },
+      "desc": {
+        "en": "Help covering water and wastewater bills for income-eligible households. Same intake line as home energy assistance.",
+        "es": "Ayuda para cubrir facturas de agua y aguas residuales para hogares elegibles por ingresos. Misma línea de admisión que la asistencia energética del hogar."
+      }
+    },
+    {
+      "name": "Georgia Power — Income-Qualified Senior Discount",
+      "category": "Housing & Utilities",
+      "address": "Statewide program",
+      "phone": "888-660-5890",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Fri, standard business hours",
+        "es": "Lunes a viernes, horario comercial habitual"
+      },
+      "desc": {
+        "en": "Reduced electric rate for income-qualified senior customers. Call to check eligibility and enroll.",
+        "es": "Tarifa eléctrica reducida para clientes mayores que califican por ingresos. Llame para verificar elegibilidad e inscribirse."
+      }
+    },
+    {
+      "name": "Forsyth Family Center Head Start / Early Head Start",
+      "category": "Youth Programs",
+      "address": "133 Samaritan Dr, Cumming, GA 30040",
+      "phone": "678-513-8611",
+      "lat": 34.2083979,
+      "lng": -84.1472786,
+      "hours": {
+        "en": "Call to enroll",
+        "es": "Llame para inscribirse"
+      },
+      "desc": {
+        "en": "Free preschool and meals for children of income-eligible families. Limited funded slots.",
+        "es": "Preescolar gratuito y comidas para niños de familias elegibles por ingresos. Cupos limitados con fondos disponibles."
+      }
+    },
+    {
+      "name": "Forsyth County Senior Services — Charles Place",
+      "category": "Senior Services",
+      "address": "595 Dahlonega St, Cumming, GA 30040",
+      "phone": "770-781-2178",
+      "lat": 34.2210244,
+      "lng": -84.1312404,
+      "hours": {
+        "en": "Mon–Fri, 8am–4:30pm",
+        "es": "Lunes a viernes, 8am–4:30pm"
+      },
+      "desc": {
+        "en": "County senior centers ($60/yr membership), meals, fitness and social programs, plus a Social Services team for personalized support and referrals for older adults and their families.",
+        "es": "Centros para personas mayores del condado (membresía de $60/año), comidas, programas de ejercicio y sociales, además de un equipo de Servicios Sociales para apoyo personalizado y referencias para adultos mayores y sus familias."
+      }
+    },
+    {
+      "name": "Legacy Link — Area Agency on Aging",
+      "category": "Senior Services",
+      "address": "Regional office, serves Forsyth & Northeast Georgia",
+      "phone": "855-266-4283",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Fri, standard business hours",
+        "es": "Lunes a viernes, horario comercial habitual"
+      },
+      "desc": {
+        "en": "Aging and Disability Resource Center. Trained intake specialists answer questions and refer to senior services, including employment and benefits counseling.",
+        "es": "Centro de Recursos para el Envejecimiento y la Discapacidad. Especialistas capacitados responden preguntas y remiten a servicios para personas mayores, incluyendo empleo y consejería de beneficios."
+      }
+    },
+    {
+      "name": "ForsythRides",
+      "category": "Transportation",
+      "address": "Trips must start in Forsyth County, up to 35 miles",
+      "phone": "770-781-2178",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Call to apply — space limited, waitlist possible",
+        "es": "Llame para solicitar — espacio limitado, es posible que haya lista de espera"
+      },
+      "desc": {
+        "en": "Forsyth County's employment transportation program. Eligible residents get rides to and from work for up to three months while connecting to longer-term transportation options.",
+        "es": "Programa de transporte laboral del condado de Forsyth. Los residentes elegibles reciben viajes de ida y vuelta al trabajo durante hasta tres meses mientras se conectan con opciones de transporte a largo plazo."
+      }
+    },
+    {
+      "name": "Access Forsyth / Dial-a-Ride",
+      "category": "Transportation",
+      "address": "Countywide, reservation required",
+      "phone": "770-781-2195",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Passenger service: Mon–Fri, 8:30am–3pm; reservations: Mon–Fri, 8am–3:30pm",
+        "es": "Servicio de pasajeros: lunes a viernes, 8:30am–3pm; reservaciones: lunes a viernes, 8am–3:30pm"
+      },
+      "desc": {
+        "en": "$2 rides for seniors and residents with disabilities to medical appointments, work programs, and human-service agency visits. Forsyth County's only public transit option open to all eligible residents.",
+        "es": "Viajes de $2 para personas mayores y residentes con discapacidades a citas médicas, programas de trabajo y visitas a agencias de servicios humanos. La única opción de transporte público del condado de Forsyth abierta a todos los residentes elegibles."
+      }
+    },
+    {
+      "name": "Family Haven",
+      "category": "Crisis & Safety",
+      "address": "Confidential shelter locations, Forsyth County",
+      "phone": "770-887-1121",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "24/7 hotline",
+        "es": "Línea directa las 24 horas, los 7 días de la semana"
+      },
+      "desc": {
+        "en": "Domestic violence shelter and support hotline. Also runs a family thrift shop.",
+        "es": "Refugio para víctimas de violencia doméstica y línea de apoyo. También opera una tienda de segunda mano familiar."
+      }
+    },
+    {
+      "name": "Georgia Crisis & Access Line",
+      "category": "Crisis & Safety",
+      "address": "Statewide phone line",
+      "phone": "1-800-715-4225",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "24/7",
+        "es": "24 horas, los 7 días de la semana"
+      },
+      "desc": {
+        "en": "Statewide behavioral health crisis line — mental health, substance use, and developmental disability crises. Also reachable by dialing 988.",
+        "es": "Línea estatal de crisis de salud conductual — crisis de salud mental, uso de sustancias y discapacidades del desarrollo. También se puede llamar marcando el 988."
+      }
+    },
+    {
+      "name": "Forsyth County Public Library — Cumming Library",
+      "category": "Employment & Education",
+      "address": "585 Dahlonega Rd, Cumming, GA 30040",
+      "phone": "770-781-9840",
+      "lat": 34.2205933,
+      "lng": -84.1317695,
+      "hours": {
+        "en": "Check forsythpl.org for current hours",
+        "es": "Consulte forsythpl.org para conocer el horario actual"
+      },
+      "desc": {
+        "en": "Main branch of the county's 5-library system. Free resume help, job search computers, and internet access.",
+        "es": "Sucursal principal del sistema de 5 bibliotecas del condado. Ayuda gratuita con currículums, computadoras para búsqueda de empleo y acceso a internet."
+      }
+    },
+    {
+      "name": "Mobile Career Coach (Georgia Mountains Regional Commission)",
+      "category": "Employment & Education",
+      "address": "Visits Cumming Library & Hampton Park Library",
+      "phone": "770-538-2631",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Rotating schedule — call for next visit date",
+        "es": "Horario rotativo — llame para conocer la próxima fecha de visita"
+      },
+      "desc": {
+        "en": "Free job-search help, resume/cover-letter writing, mock interviews, and info on tuition assistance programs. Open to residents of the 13-county service region, including Forsyth.",
+        "es": "Ayuda gratuita para la búsqueda de empleo, redacción de currículums/cartas de presentación, entrevistas simuladas e información sobre programas de asistencia para matrícula. Abierto a residentes de la región de servicio de 13 condados, incluyendo Forsyth."
+      }
+    },
+    {
+      "name": "Georgia Dept. of Labor — Veteran Services",
+      "category": "Employment & Education",
+      "address": "State office, Atlanta, GA (serves all GA counties)",
+      "phone": "404-232-3515",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Fri, standard business hours",
+        "es": "Lunes a viernes, horario comercial habitual"
+      },
+      "desc": {
+        "en": "Statewide veteran employment coordination and priority-of-service job placement help for veterans.",
+        "es": "Coordinación estatal de empleo para veteranos y ayuda de colocación laboral con prioridad de servicio para veteranos."
+      }
+    },
+    {
+      "name": "Forsyth County Schools Food & Nutrition Program",
+      "category": "Food",
+      "address": "Countywide — school cafeterias",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "School-day cafeteria hours vary by school — check the current menu",
+        "es": "El horario de las cafeterías varía según la escuela — consulte el menú actual"
+      },
+      "desc": {
+        "en": "School breakfast and lunch information, free and reduced-price meal applications, menus, and summer feeding updates for Forsyth County students.",
+        "es": "Información sobre desayunos y almuerzos escolares, solicitudes de comidas gratuitas y a precio reducido, menús y actualizaciones de alimentación de verano para estudiantes del condado de Forsyth."
+      }
+    },
+    {
+      "name": "Forsyth County Senior Services — Mobile Food Bank",
+      "category": "Food",
+      "address": "Weekly locations vary — call for the nearest distribution",
+      "phone": "770-781-2178",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Weekly distribution — call for the current location and time",
+        "es": "Distribución semanal — llame para conocer el lugar y horario actuales"
+      },
+      "desc": {
+        "en": "Free weekly visits to neighborhoods and nonprofit organizations with food and other resources for older adults and community members.",
+        "es": "Visitas semanales gratuitas a vecindarios y organizaciones sin fines de lucro con alimentos y otros recursos para adultos mayores y miembros de la comunidad."
+      }
+    },
+    {
+      "name": "Georgia Highlands Medical Services — Cumming Family Health Center",
+      "category": "Health",
+      "address": "260 Elm St, Cumming, GA 30040",
+      "phone": "770-887-1668",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Wed, 8am–5:30pm; Thu, 8am–7:30pm; Fri, 8am–12pm; Express Care Sat, 9am–5:30pm",
+        "es": "Lun–mié, 8am–5:30pm; jue, 8am–7:30pm; vie, 8am–12pm; Atención Exprés sáb, 9am–5:30pm"
+      },
+      "desc": {
+        "en": "Community health center with family medicine, behavioral health, and Express Care. A provider is on call after hours for urgent questions.",
+        "es": "Centro de salud comunitario con medicina familiar, salud conductual y Atención Exprés. Hay un proveedor de guardia fuera del horario para preguntas urgentes."
+      }
+    },
+    {
+      "name": "Northside Hospital Forsyth",
+      "category": "Health",
+      "address": "1200 Northside Forsyth Dr, Cumming, GA 30041",
+      "phone": "770-844-3200",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Hospital and emergency services open 24 hours, 7 days a week",
+        "es": "El hospital y los servicios de emergencia están abiertos las 24 horas, los 7 días de la semana"
+      },
+      "desc": {
+        "en": "Local hospital with 24/7 emergency services and medical care for Forsyth County residents.",
+        "es": "Hospital local con servicios de emergencia las 24 horas y atención médica para residentes del condado de Forsyth."
+      }
+    },
+    {
+      "name": "Georgia WIC — Forsyth County",
+      "category": "Health",
+      "address": "Forsyth County Health Department, 428 Canton Hwy, Cumming, GA 30040",
+      "phone": "770-781-6900",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Fri, 8am–5pm — call for an appointment",
+        "es": "Lun–vie, 8am–5pm — llame para hacer una cita"
+      },
+      "desc": {
+        "en": "Nutrition support, healthy foods, breastfeeding help, and referrals for eligible pregnant people, infants, and children under age five.",
+        "es": "Apoyo nutricional, alimentos saludables, ayuda con la lactancia y referencias para personas embarazadas elegibles, bebés y niños menores de cinco años."
+      }
+    },
+    {
+      "name": "United Way of Forsyth & Dawson Counties — Resource Navigation",
+      "category": "Family Services",
+      "address": "240 Elm St, Cumming, GA 30040",
+      "phone": "770-781-4110",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Call 211 anytime for referrals; office hours vary",
+        "es": "Llame al 211 en cualquier momento para referencias; el horario de oficina varía"
+      },
+      "desc": {
+        "en": "Connects residents with food, housing, financial assistance, mental-health, senior, and family resources. Spanish-language help is available through community referrals.",
+        "es": "Conecta a los residentes con recursos de alimentos, vivienda, asistencia financiera, salud mental, servicios para mayores y familias. Hay ayuda en español mediante referencias comunitarias."
+      }
+    },
+    {
+      "name": "Cumming Women’s Center",
+      "category": "Family Services",
+      "address": "133 Samaritan Dr, Suite 306, Cumming, GA 30040",
+      "phone": "770-980-7951",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Appointments required — phone line available 24/7",
+        "es": "Se requiere cita — línea telefónica disponible las 24 horas"
+      },
+      "desc": {
+        "en": "Pregnancy support, medical services, patient advocacy, and practical resources for women and families.",
+        "es": "Apoyo durante el embarazo, servicios médicos, defensa de pacientes y recursos prácticos para mujeres y familias."
+      }
+    },
+    {
+      "name": "Cumming Home Ministries — The Shop",
+      "category": "Housing & Utilities",
+      "address": "429 Canton Rd, Cumming, GA 30040",
+      "phone": "678-456-5544",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Check current hours before visiting",
+        "es": "Consulte el horario actual antes de visitar"
+      },
+      "desc": {
+        "en": "Community thrift store whose donations support local housing and assistance work. Call for program or donation information.",
+        "es": "Tienda comunitaria de segunda mano cuyas donaciones apoyan el trabajo local de vivienda y asistencia. Llame para obtener información sobre programas o donaciones."
+      }
+    },
+    {
+      "name": "Forsyth County Schools — Family Resources",
+      "category": "Family Services",
+      "address": "Countywide — contact your child’s school",
+      "phone": null,
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "School office hours vary by school",
+        "es": "El horario de la oficina varía según la escuela"
+      },
+      "desc": {
+        "en": "Family resource connections through Forsyth County Schools, including food assistance, mental-health services, student support, and community programs.",
+        "es": "Conexiones con recursos familiares a través de las Escuelas del Condado de Forsyth, incluyendo asistencia alimentaria, servicios de salud mental, apoyo estudiantil y programas comunitarios."
+      }
+    },
+    {
+      "name": "Forsyth County Parks & Recreation",
+      "category": "Youth Programs",
+      "address": "Countywide recreation centers and parks",
+      "phone": "770-781-2215",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Registration help: Mon–Fri, 8:30am–5pm; program hours vary",
+        "es": "Ayuda con inscripciones: lun–vie, 8:30am–5pm; el horario de programas varía"
+      },
+      "desc": {
+        "en": "Affordable youth camps, sports, recreation programs, aquatics, and community activities across Forsyth County.",
+        "es": "Campamentos juveniles asequibles, deportes, programas recreativos, actividades acuáticas y actividades comunitarias en todo el condado de Forsyth."
+      }
+    },
+    {
+      "name": "Forsyth County Senior Services — Sexton Hall",
+      "category": "Senior Services",
+      "address": "2115 Chloe Rd, Cumming, GA 30041",
+      "phone": "770-781-2178",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Fri, 8:30am–5pm; program times vary",
+        "es": "Lun–vie, 8:30am–5pm; el horario de programas varía"
+      },
+      "desc": {
+        "en": "South Forsyth senior center with meals, fitness, social programs, respite and memory support, and resource coordination for older adults and caregivers.",
+        "es": "Centro para personas mayores en el sur de Forsyth con comidas, ejercicio, programas sociales, apoyo de descanso y memoria, y coordinación de recursos para adultos mayores y cuidadores."
+      }
+    },
+    {
+      "name": "Forsyth County Senior Services — Homebound Meals on Wheels",
+      "category": "Senior Services",
+      "address": "Countywide — home delivery for eligible older adults",
+      "phone": "770-781-2178",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Call to apply; deliveries are scheduled weekly",
+        "es": "Llame para solicitar; las entregas se programan semanalmente"
+      },
+      "desc": {
+        "en": "Weekly meal delivery and a friendly check-in for adults age 60 and older with mobility limitations who qualify.",
+        "es": "Entrega semanal de comidas y una visita amistosa para adultos de 60 años o más con limitaciones de movilidad que califican."
+      }
+    },
+    {
+      "name": "Forsyth County Public Library — Hampton Park Library",
+      "category": "Employment & Education",
+      "address": "5345 Settingdown Rd, Cumming, GA 30041",
+      "phone": "770-781-9840",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Thu, 9am–9pm; Fri–Sat, 10am–5:30pm; Sun, 1:30–5:30pm",
+        "es": "Lun–jue, 9am–9pm; vie–sáb, 10am–5:30pm; dom, 1:30–5:30pm"
+      },
+      "desc": {
+        "en": "Library computers, free Wi-Fi, printing, study rooms, job-search help, and youth learning programs.",
+        "es": "Computadoras, Wi-Fi gratuito, impresión, salas de estudio, ayuda para buscar empleo y programas de aprendizaje para jóvenes."
+      }
+    },
+    {
+      "name": "Forsyth County Public Library — Post Road Library",
+      "category": "Employment & Education",
+      "address": "5010 Post Rd, Cumming, GA 30040",
+      "phone": "770-781-9840",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Thu, 9am–9pm; Fri–Sat, 10am–5:30pm; Sun, 1:30–5:30pm",
+        "es": "Lun–jue, 9am–9pm; vie–sáb, 10am–5:30pm; dom, 1:30–5:30pm"
+      },
+      "desc": {
+        "en": "Free internet, computers, printing, study rooms, library programs, and education resources for all ages.",
+        "es": "Internet gratuito, computadoras, impresión, salas de estudio, programas de biblioteca y recursos educativos para todas las edades."
+      }
+    },
+    {
+      "name": "Forsyth County Public Library — Sharon Forks Library",
+      "category": "Employment & Education",
+      "address": "2820 Old Atlanta Rd, Cumming, GA 30041",
+      "phone": "770-781-9840",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Thu, 9am–9pm; Fri–Sat, 10am–5:30pm; Sun, 1:30–5:30pm",
+        "es": "Lun–jue, 9am–9pm; vie–sáb, 10am–5:30pm; dom, 1:30–5:30pm"
+      },
+      "desc": {
+        "en": "Free computers, Wi-Fi, printing, study rooms, resume and job-search resources, and family programs.",
+        "es": "Computadoras, Wi-Fi, impresión, salas de estudio, recursos para currículums y búsqueda de empleo, y programas familiares gratuitos."
+      }
+    },
+    {
+      "name": "Forsyth County Public Library — Denmark Library",
+      "category": "Employment & Education",
+      "address": "530 Fowler Rd, Cumming, GA 30041",
+      "phone": "770-781-9840",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "Mon–Thu, 9am–9pm; Fri–Sat, 10am–5:30pm; Sun, 1:30–5:30pm",
+        "es": "Lun–jue, 9am–9pm; vie–sáb, 10am–5:30pm; dom, 1:30–5:30pm"
+      },
+      "desc": {
+        "en": "Newer county library branch with free technology, internet, study space, and educational programming.",
+        "es": "Sucursal nueva de la biblioteca del condado con tecnología, internet, espacio de estudio y programas educativos gratuitos."
+      }
+    },
+    {
+      "name": "988 Suicide & Crisis Lifeline",
+      "category": "Crisis & Safety",
+      "address": "Nationwide phone, text, and chat support",
+      "phone": "988",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "24/7 — call or text 988; press 2 for Spanish",
+        "es": "24 horas, los 7 días — llame o envíe un mensaje al 988; oprima 2 para español"
+      },
+      "desc": {
+        "en": "Free, confidential crisis support for suicidal thoughts, emotional distress, and mental-health concerns.",
+        "es": "Apoyo gratuito y confidencial para crisis, pensamientos suicidas, angustia emocional y preocupaciones de salud mental."
+      }
+    },
+    {
+      "name": "Forsyth County Sheriff’s Office — Non-Emergency",
+      "category": "Crisis & Safety",
+      "address": "Countywide",
+      "phone": "770-781-2222",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "24/7 non-emergency line",
+        "es": "Línea de no emergencia disponible las 24 horas"
+      },
+      "desc": {
+        "en": "Call for non-emergency law-enforcement assistance. Call 911 for immediate danger or a life-threatening emergency.",
+        "es": "Llame para recibir asistencia policial que no sea de emergencia. Llame al 911 si existe peligro inmediato o una emergencia que amenaza la vida."
+      }
+    },
+    {
+      "name": "National Domestic Violence Hotline",
+      "category": "Crisis & Safety",
+      "address": "Confidential phone, text, and chat support",
+      "phone": "1-800-799-7233",
+      "lat": null,
+      "lng": null,
+      "hours": {
+        "en": "24/7 hotline — text START to 88788",
+        "es": "Línea directa las 24 horas — envíe START por mensaje al 88788"
+      },
+      "desc": {
+        "en": "Confidential support, safety planning, and referrals for people experiencing domestic violence or supporting someone who is.",
+        "es": "Apoyo confidencial, planificación de seguridad y referencias para personas que viven violencia doméstica o apoyan a alguien que la vive."
+      }
+    },
+    {
+      "name": "Food Stamps (DFCS) — Forsyth County",
+      "category": "Food",
+      "address": "Forsyth County benefits assistance",
+      "phone": "770-781-6700",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Mon–Fri, 9am–4pm; online applications available anytime", "es": "Lun–vie, 9am–4pm; solicitudes en línea disponibles en cualquier momento"},
+      "desc": {"en": "Application and case help for SNAP/food-stamp benefits and other public assistance programs.", "es": "Ayuda con solicitudes y casos de SNAP/estampillas de comida y otros programas de asistencia pública."}
+    },
+    {
+      "name": "Georgia Mountain Food Bank",
+      "category": "Food",
+      "address": "Regional food bank serving Northeast Georgia",
+      "phone": "770-534-4111",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current distribution hours and partner locations", "es": "Llame para conocer el horario actual de distribución y los lugares asociados"},
+      "desc": {"en": "Regional food bank that connects families with food through partner pantries and community distributions.", "es": "Banco regional de alimentos que conecta a las familias con comida mediante despensas asociadas y distribuciones comunitarias."}
+    },
+    {
+      "name": "Freedom Tabernacle Food Pantry",
+      "category": "Food",
+      "address": "Forsyth County area",
+      "phone": "770-887-4679",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current pantry hours", "es": "Llame para conocer el horario actual de la despensa"},
+      "desc": {"en": "Community food pantry serving local households; call ahead about eligibility and distribution days.", "es": "Despensa comunitaria que sirve a hogares locales; llame antes para preguntar sobre elegibilidad y días de distribución."}
+    },
+    {
+      "name": "Greater Than Outreach",
+      "category": "Food",
+      "address": "Forsyth County area",
+      "phone": "770-887-4802",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current food distribution hours", "es": "Llame para conocer el horario actual de distribución de alimentos"},
+      "desc": {"en": "Local outreach organization offering food and practical support to families in need.", "es": "Organización local de apoyo que ofrece alimentos y ayuda práctica a familias necesitadas."}
+    },
+    {
+      "name": "Creekside Methodist Church Food Pantry",
+      "category": "Food",
+      "address": "Forsyth County area",
+      "phone": "770-888-8449",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current pantry hours", "es": "Llame para conocer el horario actual de la despensa"},
+      "desc": {"en": "Church-based food assistance for households experiencing food insecurity.", "es": "Asistencia alimentaria basada en la iglesia para hogares que enfrentan inseguridad alimentaria."}
+    },
+    {
+      "name": "North Lanier Baptist Church Food Pantry",
+      "category": "Food",
+      "address": "Forsyth County area",
+      "phone": "770-781-5433",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current pantry hours", "es": "Llame para conocer el horario actual de la despensa"},
+      "desc": {"en": "Community food pantry operated through North Lanier Baptist Church.", "es": "Despensa comunitaria de alimentos administrada por North Lanier Baptist Church."}
+    },
+    {
+      "name": "St. Joseph Food Pantry at St. Brendan’s",
+      "category": "Food",
+      "address": "Forsyth County area",
+      "phone": "770-205-7969",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current pantry hours", "es": "Llame para conocer el horario actual de la despensa"},
+      "desc": {"en": "Food assistance through a local parish pantry; call ahead about distribution requirements.", "es": "Asistencia alimentaria mediante una despensa parroquial local; llame antes para preguntar sobre los requisitos de distribución."}
+    },
+    {
+      "name": "There’s Hope for the Hungry",
+      "category": "Food",
+      "address": "Forsyth County area",
+      "phone": "678-513-9445",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current food assistance hours", "es": "Llame para conocer el horario actual de asistencia alimentaria"},
+      "desc": {"en": "Community hunger-relief program connecting people with food and basic-needs support.", "es": "Programa comunitario contra el hambre que conecta a las personas con alimentos y apoyo para necesidades básicas."}
+    },
+    {
+      "name": "Bald Ridge Lodge",
+      "category": "Housing & Utilities",
+      "address": "Forsyth County area — residential support for boys",
+      "phone": "770-887-1220",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for intake hours and eligibility", "es": "Llame para conocer el horario de admisión y la elegibilidad"},
+      "desc": {"en": "Residential and supportive services for boys and young people who need a safe, structured setting.", "es": "Servicios residenciales y de apoyo para niños y jóvenes que necesitan un entorno seguro y estructurado."}
+    },
+    {
+      "name": "Cumming Housing Authority",
+      "category": "Housing & Utilities",
+      "address": "Cumming, GA",
+      "phone": "770-887-5331",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for office hours, waitlist status, and eligibility", "es": "Llame para conocer el horario de oficina, la lista de espera y la elegibilidad"},
+      "desc": {"en": "Public housing and housing-assistance information for eligible residents.", "es": "Información sobre vivienda pública y asistencia de vivienda para residentes elegibles."}
+    },
+    {
+      "name": "Family Promise of Forsyth County",
+      "category": "Housing & Utilities",
+      "address": "Forsyth County area",
+      "phone": "678-476-4657",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for intake hours and current shelter availability", "es": "Llame para conocer el horario de admisión y la disponibilidad actual de refugio"},
+      "desc": {"en": "Housing and shelter support for families experiencing homelessness or housing instability.", "es": "Apoyo de vivienda y refugio para familias que enfrentan falta de vivienda o inestabilidad de vivienda."}
+    },
+    {
+      "name": "Georgia Department of Community Affairs — Housing Help",
+      "category": "Housing & Utilities",
+      "address": "Statewide housing and homelessness assistance",
+      "phone": "404-679-4940",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Mon–Fri, standard business hours; call for local referrals", "es": "Lun–vie, horario comercial habitual; llame para referencias locales"},
+      "desc": {"en": "State housing resources, homelessness assistance, and referrals to the local Continuum of Care.", "es": "Recursos estatales de vivienda, asistencia para personas sin hogar y referencias al sistema local de atención continua."}
+    },
+    {
+      "name": "Habitat for Humanity — North Central Georgia",
+      "category": "Housing & Utilities",
+      "address": "North Central Georgia service area",
+      "phone": "770-587-9679",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for application and office hours", "es": "Llame para conocer el horario de solicitudes y de oficina"},
+      "desc": {"en": "Affordable homeownership, home-repair, and neighborhood revitalization programs for qualifying families.", "es": "Programas de propiedad de vivienda asequible, reparación de viviendas y revitalización de vecindarios para familias elegibles."}
+    },
+    {
+      "name": "Highland Manor — Senior Housing",
+      "category": "Housing & Utilities",
+      "address": "Forsyth County area",
+      "phone": "770-889-6449",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for office hours and availability", "es": "Llame para conocer el horario de oficina y la disponibilidad"},
+      "desc": {"en": "Housing resource for older adults; call to ask about eligibility, waitlists, and available units.", "es": "Recurso de vivienda para adultos mayores; llame para preguntar sobre elegibilidad, listas de espera y unidades disponibles."}
+    },
+    {
+      "name": "Forsyth County Community Resource Center",
+      "category": "Housing & Utilities",
+      "address": "133 Samaritan Dr, Suite 112, Cumming, GA 30040",
+      "phone": "1-800-822-0179",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current intake hours and homelessness assistance", "es": "Llame para conocer el horario actual de admisión y la asistencia para personas sin hogar"},
+      "desc": {"en": "Ninth District Opportunity’s local entry point for housing and homelessness assistance in Forsyth County.", "es": "Punto local de entrada de Ninth District Opportunity para asistencia de vivienda y falta de vivienda en el condado de Forsyth."}
+    },
+    {
+      "name": "St. Vincent de Paul — Sojourners House",
+      "category": "Housing & Utilities",
+      "address": "Forsyth County area",
+      "phone": "678-947-0677",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current intake hours and availability", "es": "Llame para conocer el horario actual de admisión y la disponibilidad"},
+      "desc": {"en": "Housing and supportive services for people who need a safe place and help stabilizing their situation.", "es": "Vivienda y servicios de apoyo para personas que necesitan un lugar seguro y ayuda para estabilizar su situación."}
+    },
+    {
+      "name": "Spanglish Bilingual Agency",
+      "category": "Family Services",
+      "address": "Forsyth County area",
+      "phone": "770-844-5774",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current office hours", "es": "Llame para conocer el horario actual de oficina"},
+      "desc": {"en": "Bilingual community support and referrals for Spanish-speaking families in the Forsyth area.", "es": "Apoyo comunitario bilingüe y referencias para familias de habla hispana en el área de Forsyth."}
+    },
+    {
+      "name": "Georgia Department of Human Services",
+      "category": "Family Services",
+      "address": "Statewide phone and online benefits support",
+      "phone": "1-844-694-2347",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Mon–Fri, standard customer-service hours; online services available anytime", "es": "Lun–vie, horario habitual de servicio al cliente; servicios en línea disponibles en cualquier momento"},
+      "desc": {"en": "State benefits navigation and referrals for food, health, family, and financial assistance programs.", "es": "Orientación sobre beneficios estatales y referencias para programas de alimentos, salud, familia y asistencia financiera."}
+    },
+    {
+      "name": "Social Security Administration",
+      "category": "Family Services",
+      "address": "Federal phone and online service",
+      "phone": "866-331-2309",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Mon–Fri, 8am–7pm by phone; online services available anytime", "es": "Lun–vie, 8am–7pm por teléfono; servicios en línea disponibles en cualquier momento"},
+      "desc": {"en": "Help with Social Security, SSI, disability, Medicare, retirement, and benefit applications.", "es": "Ayuda con Seguro Social, SSI, discapacidad, Medicare, jubilación y solicitudes de beneficios."}
+    },
+    {
+      "name": "Georgia Department of Driver Services",
+      "category": "Family Services",
+      "address": "Statewide services; nearest office varies",
+      "phone": "678-413-8400",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Office hours vary by location — check appointment availability online", "es": "El horario varía según la oficina — consulte la disponibilidad de citas en línea"},
+      "desc": {"en": "Driver licenses, state identification cards, permits, testing, and related transportation documents.", "es": "Licencias de conducir, tarjetas de identificación estatales, permisos, exámenes y documentos de transporte relacionados."}
+    },
+    {
+      "name": "Prevent Child Abuse Georgia",
+      "category": "Family Services",
+      "address": "Statewide phone support",
+      "phone": "1-800-436-7442",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current hotline hours and local referrals", "es": "Llame para conocer el horario actual de la línea y las referencias locales"},
+      "desc": {"en": "Child-safety education, prevention resources, and referrals for families and caregivers.", "es": "Educación sobre seguridad infantil, recursos de prevención y referencias para familias y cuidadores."}
+    },
+    {
+      "name": "Georgia Department of Juvenile Justice",
+      "category": "Family Services",
+      "address": "Forsyth County and statewide youth services",
+      "phone": "770-781-6804",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Mon–Fri, standard business hours; emergency needs call 911", "es": "Lun–vie, horario comercial habitual; para emergencias llame al 911"},
+      "desc": {"en": "Youth justice, supervision, reentry, and family-support services for young people and caregivers.", "es": "Servicios de justicia juvenil, supervisión, reintegración y apoyo familiar para jóvenes y cuidadores."}
+    },
+    {
+      "name": "Forsyth County Community Connection",
+      "category": "Family Services",
+      "address": "Forsyth County area",
+      "phone": "404-985-7796",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current office hours and referrals", "es": "Llame para conocer el horario actual de oficina y referencias"},
+      "desc": {"en": "Community connection and referral support for residents looking for local services and assistance.", "es": "Apoyo de conexión comunitaria y referencias para residentes que buscan servicios y asistencia local."}
+    },
+    {
+      "name": "Georgia Center for the Deaf and Hard of Hearing",
+      "category": "Health",
+      "address": "Statewide communication and hearing support",
+      "phone": "888-297-9465",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current service hours and interpreter support", "es": "Llame para conocer el horario actual y el apoyo de intérpretes"},
+      "desc": {"en": "Communication access, hearing support, advocacy, and resources for Deaf and hard-of-hearing Georgians.", "es": "Acceso a la comunicación, apoyo auditivo, defensa y recursos para personas sordas o con problemas de audición en Georgia."}
+    },
+    {
+      "name": "Georgia Charitable Care Network",
+      "category": "Health",
+      "address": "Statewide healthcare referral network",
+      "phone": "404-657-1452",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current referral hours", "es": "Llame para conocer el horario actual de referencias"},
+      "desc": {"en": "Connections to charitable healthcare and specialty-care resources for people who are uninsured or underinsured.", "es": "Conexiones con atención médica caritativa y especializada para personas sin seguro o con seguro insuficiente."}
+    },
+    {
+      "name": "Georgia Lions Lighthouse Foundation",
+      "category": "Health",
+      "address": "Statewide vision assistance",
+      "phone": "404-325-3630",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current application hours and eligibility", "es": "Llame para conocer el horario de solicitudes y la elegibilidad"},
+      "desc": {"en": "Vision exams, glasses, and other eye-care assistance for eligible Georgians.", "es": "Exámenes de la vista, anteojos y otra asistencia de cuidado ocular para residentes elegibles de Georgia."}
+    },
+    {
+      "name": "Georgia Hospice and Palliative Care Organization",
+      "category": "Health",
+      "address": "Statewide hospice and caregiver support",
+      "phone": "877-924-6073",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current referral hours", "es": "Llame para conocer el horario actual de referencias"},
+      "desc": {"en": "Information and referrals for hospice, palliative care, advance care planning, and caregiver support.", "es": "Información y referencias para cuidados paliativos, planificación anticipada y apoyo para cuidadores."}
+    },
+    {
+      "name": "Healthy Mothers, Healthy Babies Coalition of Georgia",
+      "category": "Health",
+      "address": "Statewide maternal and infant support",
+      "phone": "770-451-0020",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current support hours and referrals", "es": "Llame para conocer el horario actual de apoyo y referencias"},
+      "desc": {"en": "Pregnancy, postpartum, newborn, and family health information and referrals.", "es": "Información y referencias sobre salud durante el embarazo, después del parto, del recién nacido y de la familia."}
+    },
+    {
+      "name": "Georgia Parent Support Network",
+      "category": "Health",
+      "address": "Statewide family support",
+      "phone": "404-758-4500",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current support-group and referral hours", "es": "Llame para conocer el horario actual de grupos de apoyo y referencias"},
+      "desc": {"en": "Peer support and family resources for parents of children and young adults with behavioral-health needs.", "es": "Apoyo entre pares y recursos familiares para padres de niños y jóvenes con necesidades de salud conductual."}
+    },
+    {
+      "name": "Children’s Center for Hope & Healing",
+      "category": "Health",
+      "address": "Northeast Georgia service area",
+      "phone": "770-532-6530",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current counseling and intake hours", "es": "Llame para conocer el horario actual de consejería y admisión"},
+      "desc": {"en": "Counseling, advocacy, and support for children and families affected by trauma or abuse.", "es": "Consejería, defensa y apoyo para niños y familias afectadas por trauma o abuso."}
+    },
+    {
+      "name": "Blue Ridge Counseling",
+      "category": "Health",
+      "address": "Northeast Georgia service area",
+      "phone": "706-974-3899",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current counseling hours and appointments", "es": "Llame para conocer el horario actual de consejería y citas"},
+      "desc": {"en": "Counseling and behavioral-health support for individuals and families; ask about service area and cost.", "es": "Consejería y apoyo de salud conductual para personas y familias; pregunte sobre el área de servicio y el costo."}
+    },
+    {
+      "name": "American Addiction Centers Hotline",
+      "category": "Health",
+      "address": "Confidential phone support and treatment referrals",
+      "phone": "888-969-8208",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current hotline hours and treatment referrals", "es": "Llame para conocer el horario actual y referencias de tratamiento"},
+      "desc": {"en": "Confidential information and referrals for substance-use treatment and recovery support.", "es": "Información confidencial y referencias para tratamiento por uso de sustancias y apoyo para la recuperación."}
+    },
+    {
+      "name": "Ridgeview Institute",
+      "category": "Health",
+      "address": "Regional behavioral-health services",
+      "phone": "770-434-4567",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for admissions and current program hours", "es": "Llame para admisiones y conocer el horario actual de programas"},
+      "desc": {"en": "Behavioral-health and substance-use treatment programs; call to discuss care options and eligibility.", "es": "Programas de tratamiento de salud conductual y uso de sustancias; llame para hablar sobre opciones de atención y elegibilidad."}
+    },
+    {
+      "name": "No Longer Bound",
+      "category": "Health",
+      "address": "Forsyth County area and regional recovery services",
+      "phone": "770-886-7873",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current intake hours and eligibility", "es": "Llame para conocer el horario actual de admisión y la elegibilidad"},
+      "desc": {"en": "Recovery, employment, and life-skills support for people working to overcome addiction and rebuild stability.", "es": "Apoyo de recuperación, empleo y habilidades para la vida para personas que trabajan para superar la adicción y reconstruir su estabilidad."}
+    },
+    {
+      "name": "Alcoholics Anonymous — Atlanta Area",
+      "category": "Health",
+      "address": "Local meetings and phone support vary",
+      "phone": "404-525-3178",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "24/7 phone information; meeting times vary", "es": "Información telefónica las 24 horas; los horarios de reuniones varían"},
+      "desc": {"en": "Peer-led recovery meetings and support for people seeking help with alcohol use.", "es": "Reuniones de recuperación dirigidas por pares y apoyo para personas que buscan ayuda con el consumo de alcohol."}
+    },
+    {
+      "name": "Narcotics Anonymous — Georgia",
+      "category": "Health",
+      "address": "Local meetings and phone support vary",
+      "phone": "678-405-0825",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current meeting times and locations", "es": "Llame para conocer los horarios y lugares actuales de las reuniones"},
+      "desc": {"en": "Peer-led recovery meetings and support for people seeking freedom from drug addiction.", "es": "Reuniones de recuperación dirigidas por pares y apoyo para personas que buscan liberarse de la adicción a las drogas."}
+    },
+    {
+      "name": "National Runaway Safeline",
+      "category": "Crisis & Safety",
+      "address": "Confidential nationwide phone, text, and chat support",
+      "phone": "1-800-786-2929",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "24/7 hotline and crisis support", "es": "Línea directa y apoyo de crisis las 24 horas"},
+      "desc": {"en": "Crisis intervention, safety planning, and resources for youth who are running away or thinking about running away.", "es": "Intervención en crisis, planificación de seguridad y recursos para jóvenes que se han ido de casa o piensan hacerlo."}
+    },
+    {
+      "name": "National Human Trafficking Hotline",
+      "category": "Crisis & Safety",
+      "address": "Confidential nationwide phone, text, and chat support",
+      "phone": "1-888-373-7888",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "24/7 — text HELP or INFO to 233733", "es": "24 horas — envíe HELP o INFO por mensaje al 233733"},
+      "desc": {"en": "Confidential help, safety planning, and referrals for human-trafficking concerns.", "es": "Ayuda confidencial, planificación de seguridad y referencias para preocupaciones relacionadas con la trata de personas."}
+    },
+    {
+      "name": "RAINN National Sexual Assault Hotline",
+      "category": "Crisis & Safety",
+      "address": "Confidential nationwide phone and online support",
+      "phone": "1-800-656-4673",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "24/7 hotline and online chat", "es": "Línea directa y chat en línea las 24 horas"},
+      "desc": {"en": "Confidential crisis support, information, and referrals for survivors of sexual assault and their loved ones.", "es": "Apoyo confidencial en crisis, información y referencias para sobrevivientes de agresión sexual y sus seres queridos."}
+    },
+    {
+      "name": "SAMHSA National Helpline",
+      "category": "Crisis & Safety",
+      "address": "Nationwide mental-health and substance-use referral line",
+      "phone": "1-800-662-4357",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "24/7 information and treatment referrals", "es": "Información y referencias de tratamiento las 24 horas"},
+      "desc": {"en": "Free, confidential information and referrals for mental-health and substance-use treatment.", "es": "Información y referencias gratuitas y confidenciales para tratamiento de salud mental y uso de sustancias."}
+    },
+    {
+      "name": "Georgia Child Protective Services Central Intake",
+      "category": "Crisis & Safety",
+      "address": "Statewide child-safety reporting line",
+      "phone": "1-855-422-4453",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "24/7 reporting line", "es": "Línea de reportes disponible las 24 horas"},
+      "desc": {"en": "Report suspected child abuse or neglect and request child-safety assistance. Call 911 for immediate danger.", "es": "Reporte sospechas de abuso o negligencia infantil y solicite ayuda de seguridad infantil. Llame al 911 si existe peligro inmediato."}
+    },
+    {
+      "name": "Georgia Adult Protective Services",
+      "category": "Crisis & Safety",
+      "address": "Statewide vulnerable-adult reporting line",
+      "phone": "1-866-552-4464",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current reporting hours; press 3 for Adult Protective Services", "es": "Llame para conocer el horario actual de reportes; oprima 3 para Servicios de Protección de Adultos"},
+      "desc": {"en": "Report suspected abuse, neglect, or exploitation of vulnerable adults and request protective services.", "es": "Reporte sospechas de abuso, negligencia o explotación de adultos vulnerables y solicite servicios de protección."}
+    },
+    {
+      "name": "Forsyth County Drug Awareness Council",
+      "category": "Crisis & Safety",
+      "address": "Forsyth County area",
+      "phone": "770-887-1710",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current office hours and prevention programs", "es": "Llame para conocer el horario actual y los programas de prevención"},
+      "desc": {"en": "Local substance-use prevention education, community awareness, and family resources.", "es": "Educación local para la prevención del uso de sustancias, concientización comunitaria y recursos para familias."}
+    },
+    {
+      "name": "Forsyth County Family Branch YMCA",
+      "category": "Youth Programs",
+      "address": "6050 Y St, Cumming, GA 30040",
+      "phone": "770-888-2788",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current facility, childcare, and program hours", "es": "Llame para conocer el horario actual de la instalación, cuidado infantil y programas"},
+      "desc": {"en": "Youth programs, childcare, sports, wellness, aquatic activities, and family support programs.", "es": "Programas juveniles, cuidado infantil, deportes, bienestar, actividades acuáticas y programas de apoyo familiar."}
+    },
+    {
+      "name": "Georgia Aging and Disability Network",
+      "category": "Senior Services",
+      "address": "Statewide aging and disability information line",
+      "phone": "1-866-552-4464",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current information-and-referral hours", "es": "Llame para conocer el horario actual de información y referencias"},
+      "desc": {"en": "Information and referrals for older adults, people with disabilities, caregivers, benefits, and long-term services.", "es": "Información y referencias para adultos mayores, personas con discapacidades, cuidadores, beneficios y servicios a largo plazo."}
+    },
+    {
+      "name": "Oasis Taxi",
+      "category": "Transportation",
+      "address": "Forsyth County area",
+      "phone": "678-455-0036",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current availability and reservation hours", "es": "Llame para conocer la disponibilidad y el horario actual de reservaciones"},
+      "desc": {"en": "Private taxi transportation option listed in the county’s community resource materials.", "es": "Opción de transporte privado en taxi incluida en los materiales de recursos comunitarios del condado."}
+    },
+    {
+      "name": "Patty’s Taxi",
+      "category": "Transportation",
+      "address": "Forsyth County area",
+      "phone": "706-300-7143",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current availability and reservation hours", "es": "Llame para conocer la disponibilidad y el horario actual de reservaciones"},
+      "desc": {"en": "Private taxi transportation option for local trips; call ahead to confirm service area and cost.", "es": "Opción de transporte privado en taxi para viajes locales; llame antes para confirmar el área de servicio y el costo."}
+    },
+    {
+      "name": "Country Cab and Transportation",
+      "category": "Transportation",
+      "address": "Forsyth County area",
+      "phone": "678-947-3331",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current availability and reservation hours", "es": "Llame para conocer la disponibilidad y el horario actual de reservaciones"},
+      "desc": {"en": "Private transportation option for local rides; call to ask about accessibility and fares.", "es": "Opción de transporte privado para viajes locales; llame para preguntar sobre accesibilidad y tarifas."}
+    },
+    {
+      "name": "Lanier Cab",
+      "category": "Transportation",
+      "address": "Forsyth County area",
+      "phone": "678-200-0224",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current availability and reservation hours", "es": "Llame para conocer la disponibilidad y el horario actual de reservaciones"},
+      "desc": {"en": "Private taxi transportation option serving the local area; confirm pickup details by phone.", "es": "Opción de transporte privado en taxi que sirve al área local; confirme los detalles de recogida por teléfono."}
+    },
+    {
+      "name": "Phantom Cab",
+      "category": "Transportation",
+      "address": "Forsyth County area",
+      "phone": "770-205-7673",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current availability and reservation hours", "es": "Llame para conocer la disponibilidad y el horario actual de reservaciones"},
+      "desc": {"en": "Private taxi transportation option for local travel; call ahead to confirm service and pricing.", "es": "Opción de transporte privado en taxi para viajes locales; llame antes para confirmar el servicio y el precio."}
+    },
+    {
+      "name": "Lanier Technical College — Literacy and GED Support",
+      "category": "Employment & Education",
+      "address": "Forsyth County and regional adult-education services",
+      "phone": "770-781-6987",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current class, enrollment, and testing hours", "es": "Llame para conocer el horario actual de clases, inscripción y exámenes"},
+      "desc": {"en": "Adult literacy, GED preparation, workforce training, and continuing-education pathways.", "es": "Alfabetización de adultos, preparación para el GED, capacitación laboral y oportunidades de educación continua."}
+    },
+    {
+      "name": "Goodwill of North Georgia — Cumming",
+      "category": "Employment & Education",
+      "address": "Cumming, GA area",
+      "phone": "678-455-9343",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Retail and donation hours vary — call or check current listing", "es": "El horario de la tienda y donaciones varía — llame o consulte el listado actual"},
+      "desc": {"en": "Job training, employment support, and community thrift-store services for residents in the area.", "es": "Capacitación laboral, apoyo para el empleo y servicios de tienda comunitaria de segunda mano para residentes del área."}
+    },
+    {
+      "name": "Forsyth County Public Library — Bookmobile",
+      "category": "Employment & Education",
+      "address": "Rotating stops throughout Forsyth County",
+      "phone": "770-781-9840",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Rotating schedule — check the outreach calendar", "es": "Horario rotativo — consulte el calendario de alcance comunitario"},
+      "desc": {"en": "Mobile library with books, DVDs, Wi-Fi, and computer access at neighborhood stops across the county.", "es": "Biblioteca móvil con libros, DVD, Wi-Fi y acceso a computadoras en paradas de vecindarios de todo el condado."}
+    },
+    {
+      "name": "ECOHS Community Pantry — Household Items",
+      "category": "Housing & Utilities",
+      "address": "Forsyth County area",
+      "phone": "770-887-8190",
+      "lat": null,
+      "lng": null,
+      "hours": {"en": "Call for current distribution hours and available items", "es": "Llame para conocer el horario actual de distribución y los artículos disponibles"},
+      "desc": {"en": "Community pantry for non-food household items and basic-needs assistance.", "es": "Despensa comunitaria de artículos domésticos no alimentarios y asistencia para necesidades básicas."}
+    }
+  ],
+  "uiStrings": {
+    "en": {
+      "heroTitle": "Find help near you.",
+      "heroSubtitle": "Search for food, health, housing, and family help in Forsyth County.",
+      "searchPlaceholder": "Type here to search",
+      "urgentNote": "Need help right now? Call <strong>211</strong>. It's free, and someone answers 24 hours a day.",
+      "allChip": "All",
+      "resultsFound": "{n} resource{s} found",
+      "emptyTitle": "No matches.",
+      "emptyBody": "Try a different keyword, or clear the category filter.",
+      "labelWhere": "Where",
+      "labelWhen": "When",
+      "hoursLabel": "Hours",
+      "labelWhat": "What",
+      "callButton": "Call {phone}",
+      "footer": "Built by Abeer for the Congressional App Challenge.",
+      "verifiedLabel": "Last verified",
+      "reportLink": "See outdated info? Let us know",
+      "sortByDistance": "Sort by distance",
+      "locationOff": "Turn on location to sort by distance",
+      "locationDenied": "Location unavailable — showing unsorted results",
+      "distanceUnknown": "Distance unknown",
+      "milesAway": "{d} mi away",
+      "langToggle": "Español"
+    },
+    "es": {
+      "heroTitle": "Encuentra ayuda cerca de ti.",
+      "heroSubtitle": "Busca ayuda de comida, salud, vivienda y familia en el condado de Forsyth.",
+      "searchPlaceholder": "Escribe aquí para buscar",
+      "urgentNote": "¿Necesitas ayuda ahora mismo? Llama al <strong>211</strong>. Es gratis, y alguien responde las 24 horas del día.",
+      "allChip": "Todos",
+      "resultsFound": "{n} recurso{s} encontrado{s}",
+      "emptyTitle": "Sin resultados.",
+      "emptyBody": "Prueba con otra palabra clave o borra el filtro de categoría.",
+      "labelWhere": "Dónde",
+      "labelWhen": "Cuándo",
+      "hoursLabel": "Horario",
+      "labelWhat": "Qué",
+      "callButton": "Llamar al {phone}",
+      "footer": "Creado por Abeer para el Congressional App Challenge.",
+      "verifiedLabel": "Última verificación",
+      "reportLink": "¿Ves información desactualizada? Avísanos",
+      "sortByDistance": "Ordenar por distancia",
+      "locationOff": "Activa la ubicación para ordenar por distancia",
+      "locationDenied": "Ubicación no disponible — mostrando resultados sin ordenar",
+      "distanceUnknown": "Distancia desconocida",
+      "milesAway": "{d} mi de distancia",
+      "langToggle": "English"
+    }
+  },
+  "verifiedDate": {
+    "en": "September 2026",
+    "es": "septiembre de 2026"
+  }
+}
